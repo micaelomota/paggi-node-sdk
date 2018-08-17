@@ -1,0 +1,23 @@
+{
+  "name": "paggi-node-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "paggi",
+    "paggi-node-sdk",
+    "paggi",
+    "sdk"
+  ],
+  "author": "Micael Mota",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
