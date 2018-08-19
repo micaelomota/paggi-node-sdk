@@ -43,7 +43,7 @@ paggi.charges.getList()
 
 ## Example
 ##### Customer create 
-```
+```javascript
 paggi.customers.create({
   "name": "Paggi Demonstration User",
   "email": "test@paggi.com",
